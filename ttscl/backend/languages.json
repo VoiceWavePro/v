@@ -1,9 +1,0 @@
-{
-    "en": {"name": "English", "voice_file": "english.wav"},
-    "custom_en": {"name": "Custom English", "voice_file": "common_voice_en_41910499.wav"},
-    "hi": {"name": "Hindi", "voice_file": "hindi.wav"},
-    "ta": {"name": "Tamil", "voice_file": "tamil.wav"},
-    "te": {"name": "Telugu", "voice_file": "telugu.wav"},
-    "es": {"name": "Spanish", "voice_file": "spanish.wav"},
-    "fr": {"name": "French", "voice_file": "french.wav"}
-}
